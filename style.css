@@ -1,0 +1,9 @@
+body{
+    background-color: orange;
+}
+
+#video{
+    width: 100%;
+height: 500px;
+border: 10px ridge red;
+}
